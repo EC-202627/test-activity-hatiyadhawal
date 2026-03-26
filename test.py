@@ -9,10 +9,10 @@
 
 T=int(input())
 for i in range(T):
-    X=int(input())
-    if 10000>X>=2000:
+    x=int(input())
+    if 10000>x>=2000:
         print("Yes")
-    elif X>=10000:
+    elif x>=10000:
         print(" Its To Much")
     else:
         print("No")
