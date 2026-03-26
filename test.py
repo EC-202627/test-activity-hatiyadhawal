@@ -13,6 +13,6 @@ for i in range(T):
     if 10000>x>=2000:
         print("Yes")
     elif x>=10000:
-        print(" Its To Much")
+        print("It's to much")
     else:
         print("No")
